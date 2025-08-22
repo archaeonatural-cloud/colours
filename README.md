@@ -2,6 +2,9 @@
 
 # archaeonatural colours
 
+* ![#0a4f72](https://placehold.co/15x15/0a4f72/0a4f72.png) `#0a4f72`
+* ![#02425e](https://placehold.co/15x15/02425e/02425e.png) `#02425e`
+
 # squirrel-colours - The Squirrel Colour Scheme
 
 * ![#004c55](https://placehold.co/15x15/004c55/004c55.png) `#004c55` - dark green
