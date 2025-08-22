@@ -11,5 +11,5 @@
 * ![#E8EAEB](https://placehold.co/15x15/E8EAEB/E8EAEB.png) `#E8EAEB` - light grey
 * ![#45546b](https://placehold.co/15x15/45546b/45546b.png) `#45546b` - dark blue
 * ![#0bbbef](https://placehold.co/15x15/0bbbef/0bbbef.png) `#0bbbef` - bright blue
-* ![#043358](https://placehold.co/15x15/043358/043358.png) `#043358` - N4O dark blue
-* ![#005f8e](https://placehold.co/15x15/005f8e/005f8e.png) `#005f8e` - N4O light blue
+* ![#043358](https://placehold.co/15x15/043358/043358.png) `#043358` - N4O dark blue (old)
+* ![#005f8e](https://placehold.co/15x15/005f8e/005f8e.png) `#005f8e` - N4O light blue (old)
